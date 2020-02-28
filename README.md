@@ -1,4 +1,4 @@
-![Image](IMG_0291.jpeg)
+![Image](circle-cropped.png)
 
 Hi World!
 I’m Robin McKinnie and I'm a data analyst and information designer working in Austin,TX. 

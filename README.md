@@ -1,5 +1,3 @@
-![Image](circle-cropped_small.png)
-
 Hi World!
 I’m Robin McKinnie and I'm a data analyst and information designer working in Austin,TX. 
 

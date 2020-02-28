@@ -12,14 +12,15 @@ I am scouring the city for new parks and old funk records.
 
 ### McKinnie's Travels
 
-In 2018, I had the privelige of working in the Republic of Ireland for several months.
+In 2018, I had the privelige of working in the Republic of Ireland for several months. 
 
-I am originally from North Carolina, and after bringing some family out to visit, I noticed an astounding number of Irish townships that shared names with prominent streets and neighborhoods within the North Carolina cities that my family has lived in.
+I am originally from North Carolina, and after bringing some family out to visit, I noticed an astounding number of Irish townships that shared names with prominent streets and neighborhoods within the North Carolina cities that my family has lived in. 
 
-With data collection help from family members, I created a visualization which shows a significant number of Irish towns, and North Carolina streets that were likely named after them.
+With data collection help from family members, I created a visualization which connects a significant number of Irish towns to North Carolina streets that were likely named after them. 
 
-Visualization technique inspired by 
-https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
+Visualization technique inspired by https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
+
+![Image]()
 
 # Graphic Art
 

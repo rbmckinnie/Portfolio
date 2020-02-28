@@ -20,9 +20,7 @@ With data collection help from family members, I created a visualization which c
 
 The visualization technique was inspired by [this visualization by _Information is Beautiful_](https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/)
 
-You can download these images in their original quality here:
-- [Intro](https://raw.githubusercontent.com/rbmckinnie/Robin-McKinnie/master/Information_Design/Travels/%20Travels_Portfolio_Submission_1.png.001.png)
-- [Visualization](https://raw.githubusercontent.com/rbmckinnie/Robin-McKinnie/master/Information_Design/Travels/%20Travels_Portfolio_Submission_2.png.001.png)
+You can download visualization at original quality [here](https://github.com/rbmckinnie/Robin-McKinnie/raw/master/Information_Design/Travels/McKinnie_Travels_Portfolio.pdf)
 
 _McKinnie's Travels [Intro] (2018-2019)_
 ![Image](Travels_Portfolio_Submission_1.jpeg)

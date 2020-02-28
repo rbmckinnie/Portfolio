@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="350" height="350" src="https://github.com/rbmckinnie/Robin-McKinnie/blob/master/circle-cropped_small.png">
+</p>
+
 Hi World!
 I’m Robin McKinnie and I'm a data analyst and information designer working in Austin,TX. 
 

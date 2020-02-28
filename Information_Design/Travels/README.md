@@ -6,4 +6,4 @@ I am originally from North Carolina, and after bringing some family out to visit
 
 With data collection help from family members, I created a visualization which connects a significant number of Irish towns to North Carolina streets that were likely named after them.
 
-The visualization technique was inspired by this visualization by Information is Beautiful
+The visualization technique was inspired by [this visualization by Information is Beautiful](https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/)

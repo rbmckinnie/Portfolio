@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" src="https://raw.githubusercontent.com/rbmckinnie/Robin-McKinnie/master/circle-cropped_small.png">
+  <img width="350" height="350" src="https://github.com/rbmckinnie/Robin-McKinnie/blob/master/circle-cropped_small.png">
 </p>
 
 Hi World!

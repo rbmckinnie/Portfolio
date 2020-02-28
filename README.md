@@ -20,11 +20,11 @@ With data collection help from family members, I created a visualization which c
 
 The visualization technique was inspired by [this visualization by _Information is Beautiful_](https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/)
 
+You can download these images in their original quality [here]().
+
 ![Image](Travels_Portfolio_Submission_1.jpeg)
 
 ![Image](Travels_Portfolio_Submission_2.jpeg)
-
-[You can download these images in their original quality here]()
 
 # Graphic Art
 

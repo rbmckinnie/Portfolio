@@ -24,6 +24,8 @@ Visualization technique inspired by https://informationisbeautiful.net/visualiza
 
 ![Image](https://github.com/rbmckinnie/Robin-McKinnie/blob/master/%20Travels_Portfolio_Submission_2.png.001.png)
 
+<img src="https://github.com/rbmckinnie/Robin-McKinnie/blob/master/%20Travels_Portfolio_Submission_2.png.001.png" class="img-responsive" alt=""> </div>
+
 # Graphic Art
 
 ## Oz Revisited

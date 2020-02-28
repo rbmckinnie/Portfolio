@@ -24,7 +24,10 @@ With data collection help from family members, I created a visualization which s
 Visualization technique inspired by 
 https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
 
-![Image](src)
+
+![Image](McKinnie's Travels_Portfolio_Submission_1.pdf)
+
+![Image](McKinnie's Travels_Portfolio_Submission_2.pdf)
 
 # Graphic Art
 

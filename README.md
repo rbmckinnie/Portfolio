@@ -20,11 +20,9 @@ With data collection help from family members, I created a visualization which c
 
 Visualization technique inspired by https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
 
-![Image](https://github.com/rbmckinnie/Robin-McKinnie/blob/master/%20Travels_Portfolio_Submission_1.png.001.png)
+![Image](Travels_Portfolio_Submission_1.png.001.png)
 
-![Image](https://github.com/rbmckinnie/Robin-McKinnie/blob/master/%20Travels_Portfolio_Submission_2.png.001.png)
-
-<img src="https://github.com/rbmckinnie/Robin-McKinnie/blob/master/%20Travels_Portfolio_Submission_2.png.001.png" class="img-responsive" alt=""> </div>
+![Image](Travels_Portfolio_Submission_2.png.001.png)
 
 # Graphic Art
 

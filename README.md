@@ -7,12 +7,9 @@
 # Graphic Art
 
 ## Oz Revisited
+#_Oz Revisited 1_ (2016-2017)
 
 ![Image](1481588804074.jpeg)
-
-[work here]
-
-_Oz Revisited 1_ (2016-2017)
 
 
 ![Image](src)

@@ -28,9 +28,9 @@ _McKinnie's Travels [Intro] (2018-2019)_
 _McKinnie's Travels [Visualization] (2018-2019)_
 ![Image](Travels_Portfolio_Submission_2.jpeg)
 
-# Graphic Art
+## Graphic Art
 
-## Oz Revisited
+### Oz Revisited
 _Oz Revisited: 1_ (2016-2017)
 
 ![Image](1481588804074.jpeg)

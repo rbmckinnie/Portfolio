@@ -2,7 +2,7 @@
 Hi World!
 I’m Robin McKinnie and I'm a data analyst and information designer working in Austin,TX. 
 
-When I'm not working on a cool side project or sharpening my design skills, 
+When I'm not working on a fun side project or sharpening my design skills,
 I am scouring the city for new parks and old funk records.
 
 
@@ -18,11 +18,13 @@ I am originally from North Carolina, and after bringing some family out to visit
 
 With data collection help from family members, I created a visualization which connects a significant number of Irish towns to North Carolina streets that were likely named after them. 
 
-Visualization technique inspired by https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
+The visualization technique was inspired by [this visualization by _Information is Beautiful_](https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/)
 
 ![Image](Travels_Portfolio_Submission_1.jpeg)
 
 ![Image](Travels_Portfolio_Submission_2.jpeg)
+
+[You can download these images in their original quality here]()
 
 # Graphic Art
 

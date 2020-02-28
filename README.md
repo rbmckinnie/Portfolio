@@ -25,9 +25,9 @@ Visualization technique inspired by
 https://informationisbeautiful.net/visualizations/what-islamic-golden-age-thinkers-discovered-long-before-the-west/
 
 
-![Image](McKinnie's Travels_Portfolio_Submission_1.pdf)
+![Image](McKinnie's Travels_Portfolio_Submission_1.png)
 
-![Image](McKinnie's Travels_Portfolio_Submission_2.pdf)
+![Image](McKinnie's Travels_Portfolio_Submission_2.png)
 
 # Graphic Art
 
